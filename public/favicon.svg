@@ -1,0 +1,8 @@
+<svg viewBox="16 44 174 166" xmlns="http://www.w3.org/2000/svg">
+  <rect transform="matrix(.95 .3 -.31 .95 0 0)" x="69" y="25" width="139" height="127" fill="#dd0" stroke="#880" stroke-width="1"/>
+  <text fill="#12c" font-family="sans-serif" font-size="37px" text-anchor="middle">
+    <tspan x="112" y="114" font-weight="bold">TOUT</tspan>
+    <tspan x="108" y="132" font-size="25px">pour</tspan>
+    <tspan x="104" y="165" font-weight="bold">TOUS</tspan>
+  </text>
+</svg>
